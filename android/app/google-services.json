@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945664703078",
+    "project_id": "insta-clone-riverpod-01",
+    "storage_bucket": "insta-clone-riverpod-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945664703078:android:7072e4795c89bf18a00ba7",
+        "android_client_info": {
+          "package_name": "com.example.insta_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI0l6C2SLoZbb3N26ZbYtFyVMzoibvCkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
